@@ -1,4 +1,5 @@
 # VueTasks
+https://github.com/RayyanSadiq/VueTasks/assets/113306690/0bb21edb-f7fa-4ea8-aa42-17045e140f4f
 
 This is a simple CRUD application built with Vue.js that allows you to keep track and view your tasks. The application so far allows users to add, delete, and toggle reminders for tasks. The application provides a user-friendly interface for managing tasks effectively and uses Vue Router for client-side routing to navigate between different views. JSON Server is used as a placeholder for the backend, providing as a RESTful API for storing and retrieving tasks. Soon I plan on replacing JSON server with an actual RESTful application made with Spring MVC.
 
